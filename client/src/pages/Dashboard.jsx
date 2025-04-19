@@ -3,10 +3,10 @@ import axios from "axios";
 import Sidebar from "../components/Sidebar";
 
 // Import gallery images
-import img1 from "../assets/room1.jpg";
-import img2 from "../assets/room2.jpg";
-import img3 from "../assets/room3.jpg";
-import img4 from "../assets/room4.jpg";
+import img1 from "../assets/1.jpg";
+import img2 from "../assets/2.jpg";
+import img3 from "../assets/3.jpg";
+import img4 from "../assets/4.jpg";
 
 const gallery = [img1, img2, img3, img4];
 
